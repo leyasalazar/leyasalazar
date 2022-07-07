@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋🏽, I'm Leya Salazar</h1>
 <h3 align="center">A passionate software engineer from Minneapolis</h3>
 
-<p align="left"> <a href="https://twitter.com/liascodes" target="blank"><img src="https://img.shields.io/twitter/follow/liascodes?logo=twitter&style=for-the-badge" alt="liascodes" /></a> </p>
-
 - 🌱 I’m currently learning **the MERN stack**
 
 - 👨‍💻 All of my projects are available at [leyasalazar.com](leyasalazar.com)
