@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋🏽, I'm Leya Salazar</h1>
-<h3 align="center">A passionate software engineer based in Minneapolis</h3>
+<h3 align="center">A software engineer based in Minneapolis</h3>
 
-- 👩🏾‍💻 I’m currently learning **the MERN stack**
+- 👩🏾‍💻 I’m currently learning Python and Full Stack Development at Hackbright Academy
 
-- 💻 All of my projects are available at [leyasalazar.com](leyasalazar.com)
+- 💻 Working on uploading all my projects are at [leyasalazar.com](leyasalazar.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
