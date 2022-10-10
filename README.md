@@ -39,7 +39,7 @@
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=leyasalazar&theme=monokai-metallian&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&background=040059)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=leyasalazar&theme=monokai-metallian&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&background=040059&sideNums=FFF3F8&currStreakNum=FFF3F8)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leyasalazar&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
