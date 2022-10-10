@@ -3,7 +3,7 @@
 
 - 👩🏾‍💻 I’m currently learning Python and Full Stack Development at Hackbright Academy
 
-- 💻 Working on uploading all my projects are at [leyasalazar.com](leyasalazar.com)
+- 💻 Working on uploading all my projects at [leyasalazar.com](leyasalazar.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
