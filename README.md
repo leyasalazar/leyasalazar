@@ -9,7 +9,7 @@
 ### 👩🏾‍💻 &nbsp;About Me :
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Python and Full Stack Development at Hackbright Academy
-- 💻 Working on uploading all my projects at [leyasalazar.com](leyasalazar.com)
+- 💻 Working on uploading all my projects at <a href="https://leyasalazar.com" target="blank">leyasalazar.com</a>
 - ⚡ In my free time I solve problems on Codewars and play with my two black kittens
 
 
