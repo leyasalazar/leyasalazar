@@ -8,14 +8,12 @@
 
 ### 👩🏾‍💻 &nbsp;About Me :
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Python and Full Stack Development at Hackbright Academy
-- 💻 Working on uploading all my projects at <a href="https://leyasalazar.com" target="blank">leyasalazar.com</a>
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Go.
 - ⚡ I like to solve problems in Codewars
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/liascodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liascodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leyasalazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leya salazar" height="30" width="40" /></a>
 </p>
 
