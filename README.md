@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/JSjWzLqkpwKdTOmdA7/giphy.gif" width="100"/></p>
 
 <h1 align="center">Hola 👋🏽, I'm Leya Salazar</h1>
-<h3 align="center">A Full Stack Software Engineer based in Minneapolis</h3>
+<h3 align="center">A Full Stack Software Engineer based in Madrid</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/leyasalazar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
