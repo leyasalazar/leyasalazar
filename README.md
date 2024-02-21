@@ -8,7 +8,8 @@
 
 ### 👩🏾‍💻 &nbsp;About Me :
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Go.
+- I'm open to work opportunities.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Java.
 - ⚡ I like to solve problems in Codewars
 
 
